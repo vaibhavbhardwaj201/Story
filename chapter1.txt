@@ -6,3 +6,5 @@ git add filename - to add file to the repo
 git add . - to add all files to the repo
 git commit -m "Your commiting message" - to commit changes to the repo
 git log - to check the hash key and author who commited
+git remote add origin <link of repo on github> - it will add remote repo on github to connect them
+git push -u origin master - it pushes all the commits from local repo to github repo.
